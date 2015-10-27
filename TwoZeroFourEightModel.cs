@@ -22,7 +22,7 @@ namespace twozerofoureight
         {
             return board;
         }
-    
+      
         public int LblScore()
         {
             return lblScore;

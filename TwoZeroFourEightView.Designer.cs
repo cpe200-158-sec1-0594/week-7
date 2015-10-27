@@ -270,11 +270,12 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(337, 64);
+            this.label1.Location = new System.Drawing.Point(354, 291);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(13, 13);
             this.label1.TabIndex = 20;
             this.label1.Text = "4";
+            this.label1.Click += new System.EventHandler(this.label1_Click_1);
             // 
             // TwoZeroFourEightView
             // 
